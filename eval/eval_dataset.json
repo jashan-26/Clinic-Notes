@@ -1,0 +1,72 @@
+[
+  {
+    "id": "eval-1",
+    "case": "Adult Female with Acute Migraine and Acidity",
+    "transcript": "Met with patient Mrs. Smith, 38 years old female, phone 9876543210, ID CN-84920. Prescribing Combiflam 400mg twice daily and Pan 40 once daily.",
+    "groundTruthPhi": ["Mrs. Smith", "38 years", "9876543210", "CN-84920"],
+    "groundTruthMedicines": ["Combiflam", "Pan 40"]
+  },
+  {
+    "id": "eval-2",
+    "case": "Elderly Male with High Fever and Bronchial Cough",
+    "transcript": "Patient Rajesh Sharma, age 45 years old, mobile 9812345678, MRN CN-90123. Advising Dolo 650 three times daily and Montair-LC at bedtime.",
+    "groundTruthPhi": ["Rajesh Sharma", "45 years", "9812345678", "CN-90123"],
+    "groundTruthMedicines": ["Dolo 650", "Montair-LC"]
+  },
+  {
+    "id": "eval-3",
+    "case": "Young Female with Seasonal Allergic Rhinitis",
+    "transcript": "Consultation with Priya Verma, 28 years old female, phone 9898989898, UHID CN-44219. Prescribed Allegra 120 once daily and Ascoril D Plus syrup.",
+    "groundTruthPhi": ["Priya Verma", "28 years", "9898989898", "CN-44219"],
+    "groundTruthMedicines": ["Allegra 120", "Ascoril D Plus"]
+  },
+  {
+    "id": "eval-4",
+    "case": "Bacterial Tonsillitis in Young Adult",
+    "transcript": "Seen patient Amit Gupta, age 32 years, phone 9823456789, ID CN-11029. Advised Augmentin 625 Duo twice daily for 5 days and Dolo 650 SOS.",
+    "groundTruthPhi": ["Amit Gupta", "32 years", "9823456789", "CN-11029"],
+    "groundTruthMedicines": ["Augmentin 625 Duo", "Dolo 650"]
+  },
+  {
+    "id": "eval-5",
+    "case": "Severe Gastric GERD and Nausea",
+    "transcript": "Examined Sunita Kapoor, 50 years old, phone 9834567890, MRN CN-55421. Prescribing Pan-D once daily 30 minutes before breakfast and Ondem 4 for nausea.",
+    "groundTruthPhi": ["Sunita Kapoor", "50 years", "9834567890", "CN-55421"],
+    "groundTruthMedicines": ["Pan-D", "Ondem 4"]
+  },
+  {
+    "id": "eval-6",
+    "case": "Hypertension and Lipid Management Followup",
+    "transcript": "Patient Rohan Singh, 54 yo male, phone 9845678901, UHID CN-66782. Continue Telma 40 once daily in morning and Atorva 10 at night.",
+    "groundTruthPhi": ["Rohan Singh", "54 yo", "9845678901", "CN-66782"],
+    "groundTruthMedicines": ["Telma 40", "Atorva 10"]
+  },
+  {
+    "id": "eval-7",
+    "case": "Asthma Exacerbation and Wheezing",
+    "transcript": "Evaluated Mary Johnson, 41 years old, phone 9856789012, ID CN-77893. Prescribed Asthalin Inhaler 2 puffs SOS and Budecort 200 Inhaler twice daily.",
+    "groundTruthPhi": ["Mary Johnson", "41 years", "9856789012", "CN-77893"],
+    "groundTruthMedicines": ["Asthalin Inhaler", "Budecort 200 Inhaler"]
+  },
+  {
+    "id": "eval-8",
+    "case": "Diabetic Neuropathy and Glycemic Check",
+    "transcript": "Patient John Smith, age 62 years, phone 9867890123, MRN CN-88904. Maintaining Glycomet 500 SR twice daily and Neurobion Forte once daily.",
+    "groundTruthPhi": ["John Smith", "62 years", "9867890123", "CN-88904"],
+    "groundTruthMedicines": ["Glycomet 500 SR", "Neurobion Forte"]
+  },
+  {
+    "id": "eval-9",
+    "case": "Severe Abdominal Spasms and Pain",
+    "transcript": "Patient Jane Doe, 29 years old female, phone 9878901234, ID CN-99015. Prescribing Meftal-Spas twice daily after meals and Gelusil liquid.",
+    "groundTruthPhi": ["Jane Doe", "29 years", "9878901234", "CN-99015"],
+    "groundTruthMedicines": ["Meftal-Spas", "Gelusil"]
+  },
+  {
+    "id": "eval-10",
+    "case": "Acute Bacterial Bronchitis and Low-grade Fever",
+    "transcript": "Met with patient Dr. Rajesh Verma, 48 years old, phone 9889012345, UHID CN-12345. Prescribing Azithral 500 once daily for 3 days and Dolo 650.",
+    "groundTruthPhi": ["Rajesh Verma", "48 years", "9889012345", "CN-12345"],
+    "groundTruthMedicines": ["Azithral 500", "Dolo 650"]
+  }
+]

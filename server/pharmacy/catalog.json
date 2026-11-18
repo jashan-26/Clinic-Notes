@@ -1,0 +1,1269 @@
+[
+  {
+    "id": "med-1",
+    "name": "Combiflam",
+    "genericSalt": "Ibuprofen (400mg) + Paracetamol (325mg)",
+    "strength": "400mg/325mg",
+    "dosageForm": "Tablet",
+    "category": "Analgesic / Anti-inflammatory",
+    "rxRequired": false,
+    "description": "Used for relief from mild to moderate pain including headache, toothache, muscle ache and fever.",
+    "pricing": {
+      "apollo": { "price": 42.5, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 45.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 44.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 38.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 39.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Ibugesic Plus", "manufacturer": "Cipla", "price": 36.0, "saving": "15%" },
+      { "name": "Brufen Plus", "manufacturer": "Abbott", "price": 40.0, "saving": "6%" }
+    ]
+  },
+  {
+    "id": "med-2",
+    "name": "Dolo 650",
+    "genericSalt": "Paracetamol (650mg)",
+    "strength": "650mg",
+    "dosageForm": "Tablet",
+    "category": "Antipyretic / Analgesic",
+    "rxRequired": false,
+    "description": "Rapid relief from fever, body ache, and mild headache.",
+    "pricing": {
+      "apollo": { "price": 32.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 34.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 33.5, "stock": true, "eta": "11 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 29.5, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 30.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Crocin 650", "manufacturer": "GSK", "price": 31.0, "saving": "3%" },
+      { "name": "Calpol 650", "manufacturer": "GSK", "price": 30.5, "saving": "5%" }
+    ]
+  },
+  {
+    "id": "med-3",
+    "name": "Pan 40",
+    "genericSalt": "Pantoprazole (40mg)",
+    "strength": "40mg",
+    "dosageForm": "Tablet",
+    "category": "Proton Pump Inhibitor (Antacid)",
+    "rxRequired": true,
+    "description": "Reduces stomach acid, treats acid reflux, GERD, and peptic ulcers.",
+    "pricing": {
+      "apollo": { "price": 145.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 152.0, "stock": true, "eta": "15 mins", "deliveryFee": 30 },
+      "zepto": { "price": 149.0, "stock": true, "eta": "14 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 136.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 138.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Pantocid 40", "manufacturer": "Sun Pharma", "price": 135.0, "saving": "7%" },
+      { "name": "Pantodac 40", "manufacturer": "Zydus", "price": 132.0, "saving": "9%" }
+    ]
+  },
+  {
+    "id": "med-4",
+    "name": "Pan-D",
+    "genericSalt": "Pantoprazole (40mg) + Domperidone (30mg)",
+    "strength": "40mg/30mg SR",
+    "dosageForm": "Capsule",
+    "category": "Antacid + Prokinetic",
+    "rxRequired": true,
+    "description": "Treats GERD, dyspepsia, nausea, and severe gastroesophageal reflux.",
+    "pricing": {
+      "apollo": { "price": 195.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 205.0, "stock": true, "eta": "15 mins", "deliveryFee": 30 },
+      "zepto": { "price": 200.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 182.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 185.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Pantocid DSR", "manufacturer": "Sun Pharma", "price": 178.0, "saving": "9%" },
+      { "name": "Dompan SR", "manufacturer": "Cipla", "price": 175.0, "saving": "10%" }
+    ]
+  },
+  {
+    "id": "med-5",
+    "name": "Augmentin 625 Duo",
+    "genericSalt": "Amoxicillin (500mg) + Clavulanic Acid (125mg)",
+    "strength": "625mg",
+    "dosageForm": "Tablet",
+    "category": "Antibiotic (Broad Spectrum)",
+    "rxRequired": true,
+    "description": "Effective against bacterial infections of lungs, sinuses, skin, and urinary tract.",
+    "pricing": {
+      "apollo": { "price": 201.0, "stock": true, "eta": "3 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 210.0, "stock": false, "eta": "Out of stock", "deliveryFee": 30 },
+      "zepto": { "price": 208.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 188.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 190.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Moxikind-CV 625", "manufacturer": "Mankind", "price": 165.0, "saving": "18%" },
+      { "name": "Clavam 625", "manufacturer": "Alkem", "price": 172.0, "saving": "14%" }
+    ]
+  },
+  {
+    "id": "med-6",
+    "name": "Azithral 500",
+    "genericSalt": "Azithromycin (500mg)",
+    "strength": "500mg",
+    "dosageForm": "Tablet",
+    "category": "Antibiotic (Macrolide)",
+    "rxRequired": true,
+    "description": "Treats respiratory tract infections, tonsillitis, and bacterial skin infections.",
+    "pricing": {
+      "apollo": { "price": 118.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 125.0, "stock": true, "eta": "12 mins", "deliveryFee": 30 },
+      "zepto": { "price": 122.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 109.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 112.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Azee 500", "manufacturer": "Cipla", "price": 110.0, "saving": "7%" },
+      { "name": "Zithrox 500", "manufacturer": "Macleods", "price": 105.0, "saving": "11%" }
+    ]
+  },
+  {
+    "id": "med-7",
+    "name": "Allegra 120",
+    "genericSalt": "Fexofenadine (120mg)",
+    "strength": "120mg",
+    "dosageForm": "Tablet",
+    "category": "Antihistamine (Anti-allergic)",
+    "rxRequired": false,
+    "description": "Non-sedating antihistamine for seasonal allergic rhinitis, sneezing, watery eyes, and hives.",
+    "pricing": {
+      "apollo": { "price": 198.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 208.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 205.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 182.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 185.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Fexova 120", "manufacturer": "Ipca", "price": 140.0, "saving": "29%" },
+      { "name": "Histafree 120", "manufacturer": "Mankind", "price": 135.0, "saving": "32%" }
+    ]
+  },
+  {
+    "id": "med-8",
+    "name": "Montair-LC",
+    "genericSalt": "Montelukast (10mg) + Levocetirizine (5mg)",
+    "strength": "10mg/5mg",
+    "dosageForm": "Tablet",
+    "category": "Antiallergic / Bronchodilator",
+    "rxRequired": true,
+    "description": "Controls allergic rhinitis, asthma symptoms, and chronic persistent cough.",
+    "pricing": {
+      "apollo": { "price": 298.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 310.0, "stock": true, "eta": "12 mins", "deliveryFee": 30 },
+      "zepto": { "price": 305.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 275.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 279.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Telekast-L", "manufacturer": "Lupin", "price": 250.0, "saving": "16%" },
+      { "name": "Montek-LC", "manufacturer": "Sun Pharma", "price": 260.0, "saving": "13%" }
+    ]
+  },
+  {
+    "id": "med-9",
+    "name": "Telma 40",
+    "genericSalt": "Telmisartan (40mg)",
+    "strength": "40mg",
+    "dosageForm": "Tablet",
+    "category": "Antihypertensive (ARB)",
+    "rxRequired": true,
+    "description": "Manages high blood pressure (hypertension) and protects cardiovascular health.",
+    "pricing": {
+      "apollo": { "price": 190.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 200.0, "stock": true, "eta": "15 mins", "deliveryFee": 30 },
+      "zepto": { "price": 195.0, "stock": true, "eta": "14 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 174.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 178.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Telpres 40", "manufacturer": "Abbott", "price": 160.0, "saving": "16%" },
+      { "name": "Telsartan 40", "manufacturer": "Dr Reddy", "price": 165.0, "saving": "13%" }
+    ]
+  },
+  {
+    "id": "med-10",
+    "name": "Glycomet 500 SR",
+    "genericSalt": "Metformin Hydrochloride (500mg)",
+    "strength": "500mg SR",
+    "dosageForm": "Tablet",
+    "category": "Antidiabetic (Biguanide)",
+    "rxRequired": true,
+    "description": "First-line medication for the treatment of type 2 diabetes mellitus.",
+    "pricing": {
+      "apollo": { "price": 45.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 48.0, "stock": true, "eta": "12 mins", "deliveryFee": 30 },
+      "zepto": { "price": 47.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 41.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 42.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Obimet 500 SR", "manufacturer": "Abbott", "price": 38.0, "saving": "15%" },
+      { "name": "Metfor 500 SR", "manufacturer": "Cipla", "price": 39.0, "saving": "13%" }
+    ]
+  },
+  {
+    "id": "med-11",
+    "name": "Shelcal 500",
+    "genericSalt": "Calcium (500mg) + Vitamin D3 (250 IU)",
+    "strength": "500mg/250IU",
+    "dosageForm": "Tablet",
+    "category": "Nutritional Supplement",
+    "rxRequired": false,
+    "description": "Prevents and treats calcium and vitamin D deficiency, supports bone strength.",
+    "pricing": {
+      "apollo": { "price": 132.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 139.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 136.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 121.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 124.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Cipcal 500", "manufacturer": "Cipla", "price": 115.0, "saving": "13%" },
+      { "name": "Gemcal", "manufacturer": "Alkem", "price": 120.0, "saving": "9%" }
+    ]
+  },
+  {
+    "id": "med-12",
+    "name": "Becosules Z",
+    "genericSalt": "B-Complex + Vitamin C + Zinc",
+    "strength": "Standard formula",
+    "dosageForm": "Capsule",
+    "category": "Multivitamin",
+    "rxRequired": false,
+    "description": "Restores energy, heals mouth ulcers, and boosts general immunity.",
+    "pricing": {
+      "apollo": { "price": 48.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 52.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 50.0, "stock": true, "eta": "11 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 44.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 45.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Cobadex Forte", "manufacturer": "GlaxoSmithKline", "price": 42.0, "saving": "12%" }
+    ]
+  },
+  {
+    "id": "med-13",
+    "name": "Ascoril D Plus",
+    "genericSalt": "Dextromethorphan (10mg) + Phenylephrine (5mg) + Chlorpheniramine (2mg)",
+    "strength": "100ml Syrup",
+    "dosageForm": "Syrup",
+    "category": "Cough Suppressant",
+    "rxRequired": true,
+    "description": "Relief from dry, hacking cough and nasal congestion.",
+    "pricing": {
+      "apollo": { "price": 134.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 142.0, "stock": true, "eta": "12 mins", "deliveryFee": 30 },
+      "zepto": { "price": 140.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 124.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 126.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Benadryl DR", "manufacturer": "Johnson & Johnson", "price": 120.0, "saving": "10%" },
+      { "name": "Chericof", "manufacturer": "Sun Pharma", "price": 118.0, "saving": "12%" }
+    ]
+  },
+  {
+    "id": "med-14",
+    "name": "Benadryl Cough Formula",
+    "genericSalt": "Diphenhydramine (14.08mg) + Ammonium Chloride (138mg)",
+    "strength": "100ml Syrup",
+    "dosageForm": "Syrup",
+    "category": "Expectorant / Antihistamine",
+    "rxRequired": false,
+    "description": "Soothes chesty wet cough and clears mucus.",
+    "pricing": {
+      "apollo": { "price": 128.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 135.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 132.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 118.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 120.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Koflet", "manufacturer": "Himalaya", "price": 105.0, "saving": "18%" }
+    ]
+  },
+  {
+    "id": "med-15",
+    "name": "Volini Gel",
+    "genericSalt": "Diclofenac Diethylamine + Methyl Salicylate + Menthol + Linseed Oil",
+    "strength": "50g Tube",
+    "dosageForm": "Gel / Ointment",
+    "category": "Topical Pain Relief",
+    "rxRequired": false,
+    "description": "Fast topical relief from back pain, joint stiffness, sprains, and sports strain.",
+    "pricing": {
+      "apollo": { "price": 165.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 175.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 172.0, "stock": true, "eta": "11 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 152.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 155.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Moov Fast Pain Relief", "manufacturer": "Reckitt", "price": 150.0, "saving": "9%" },
+      { "name": "Omnigel", "manufacturer": "Cipla", "price": 138.0, "saving": "16%" }
+    ]
+  },
+  {
+    "id": "med-16",
+    "name": "Otrivin Nasal Spray",
+    "genericSalt": "Xylometazoline (0.1%)",
+    "strength": "10ml Spray",
+    "dosageForm": "Nasal Drops/Spray",
+    "category": "Nasal Decongestant",
+    "rxRequired": false,
+    "description": "Clears blocked nose within 25 seconds for up to 10 hours.",
+    "pricing": {
+      "apollo": { "price": 98.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 104.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 102.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 90.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 92.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Nasivion Adult", "manufacturer": "Procter & Gamble", "price": 95.0, "saving": "3%" }
+    ]
+  },
+  {
+    "id": "med-17",
+    "name": "Gelusil MPS Liquid",
+    "genericSalt": "Aluminium Hydroxide + Magnesium Hydroxide + Dimethicone",
+    "strength": "200ml Mint",
+    "dosageForm": "Syrup / Antacid",
+    "category": "Antacid & Antigas",
+    "rxRequired": false,
+    "description": "Quick cooling relief from acidity, heartburn, and gas bloating.",
+    "pricing": {
+      "apollo": { "price": 140.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 148.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 145.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 128.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 130.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Digene Mint Liquid", "manufacturer": "Abbott", "price": 135.0, "saving": "4%" }
+    ]
+  },
+  {
+    "id": "med-18",
+    "name": "Electral Powder",
+    "genericSalt": "Oral Rehydration Salts (WHO Formula)",
+    "strength": "21.8g Sachet",
+    "dosageForm": "Powder",
+    "category": "Electrolyte Replenisher",
+    "rxRequired": false,
+    "description": "Restores fluids and vital electrolytes lost during diarrhea, vomiting, and heat exhaustion.",
+    "pricing": {
+      "apollo": { "price": 22.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 24.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 23.5, "stock": true, "eta": "11 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 20.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 21.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Prolyte ORS", "manufacturer": "Cipla", "price": 21.0, "saving": "5%" }
+    ]
+  },
+  {
+    "id": "med-19",
+    "name": "Ondem 4",
+    "genericSalt": "Ondansetron (4mg)",
+    "strength": "4mg MD",
+    "dosageForm": "Mouth Dissolving Tablet",
+    "category": "Antiemetic",
+    "rxRequired": true,
+    "description": "Stops nausea and vomiting caused by illness, gastroenteritis, or medication.",
+    "pricing": {
+      "apollo": { "price": 54.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 58.0, "stock": true, "eta": "12 mins", "deliveryFee": 30 },
+      "zepto": { "price": 56.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 49.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 50.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Emeset 4", "manufacturer": "Cipla", "price": 48.0, "saving": "11%" },
+      { "name": "Vomikind 4", "manufacturer": "Mankind", "price": 45.0, "saving": "17%" }
+    ]
+  },
+  {
+    "id": "med-20",
+    "name": "Betadine 5% Ointment",
+    "genericSalt": "Povidone Iodine (5% w/w)",
+    "strength": "20g Tube",
+    "dosageForm": "Ointment",
+    "category": "Antiseptic",
+    "rxRequired": false,
+    "description": "Antiseptic treatment for cuts, wounds, burns, and minor abrasions.",
+    "pricing": {
+      "apollo": { "price": 72.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 78.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 76.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 66.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 68.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Cipladine 5%", "manufacturer": "Cipla", "price": 58.0, "saving": "19%" }
+    ]
+  },
+  {
+    "id": "med-21",
+    "name": "Meftal-Spas",
+    "genericSalt": "Mefenamic Acid (250mg) + Dicyclomine (10mg)",
+    "strength": "250mg/10mg",
+    "dosageForm": "Tablet",
+    "category": "Antispasmodic / Analgesic",
+    "rxRequired": true,
+    "description": "Treats abdominal spasms, stomach cramps, and menstrual pain.",
+    "pricing": {
+      "apollo": { "price": 52.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 56.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 55.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 47.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 48.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Spasmo-Proxyvon", "manufacturer": "Wockhardt", "price": 50.0, "saving": "4%" },
+      { "name": "Colimex", "manufacturer": "Wallace", "price": 45.0, "saving": "13%" }
+    ]
+  },
+  {
+    "id": "med-22",
+    "name": "Cetirizine 10",
+    "genericSalt": "Cetirizine Hydrochloride (10mg)",
+    "strength": "10mg",
+    "dosageForm": "Tablet",
+    "category": "Antihistamine",
+    "rxRequired": false,
+    "description": "Relieves allergies, cold symptoms, itching, and insect bites.",
+    "pricing": {
+      "apollo": { "price": 24.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 26.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 25.0, "stock": true, "eta": "11 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 20.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 21.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Cetcip 10", "manufacturer": "Cipla", "price": 19.0, "saving": "21%" },
+      { "name": "Alerid 10", "manufacturer": "Cipla", "price": 20.0, "saving": "17%" }
+    ]
+  },
+  {
+    "id": "med-23",
+    "name": "Asthalin Inhaler",
+    "genericSalt": "Salbutamol (100mcg)",
+    "strength": "200 MDI puffs",
+    "dosageForm": "Inhaler",
+    "category": "Bronchodilator (Asthma)",
+    "rxRequired": true,
+    "description": "Rapid bronchodilator for quick relief from asthma attacks and wheezing.",
+    "pricing": {
+      "apollo": { "price": 155.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 165.0, "stock": false, "eta": "Out of stock", "deliveryFee": 30 },
+      "zepto": { "price": 162.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 142.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 145.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Ventorlin Inhaler", "manufacturer": "GSK", "price": 150.0, "saving": "3%" }
+    ]
+  },
+  {
+    "id": "med-24",
+    "name": "Budecort 200 Inhaler",
+    "genericSalt": "Budesonide (200mcg)",
+    "strength": "200 MDI puffs",
+    "dosageForm": "Inhaler",
+    "category": "Corticosteroid (Asthma)",
+    "rxRequired": true,
+    "description": "Maintenance therapy for asthma and chronic COPD inflammation.",
+    "pricing": {
+      "apollo": { "price": 385.0, "stock": true, "eta": "3 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 399.0, "stock": false, "eta": "Out of stock", "deliveryFee": 30 },
+      "zepto": { "price": 395.0, "stock": true, "eta": "18 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 355.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 360.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Pulmicort 200", "manufacturer": "AstraZeneca", "price": 420.0, "saving": "-9%" }
+    ]
+  },
+  {
+    "id": "med-25",
+    "name": "Ecosprin 75",
+    "genericSalt": "Aspirin (75mg)",
+    "strength": "75mg",
+    "dosageForm": "Tablet",
+    "category": "Antiplatelet / Blood Thinner",
+    "rxRequired": true,
+    "description": "Low-dose aspirin used to prevent blood clots, heart attacks, and strokes.",
+    "pricing": {
+      "apollo": { "price": 5.5, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 6.5, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 6.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 4.8, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 5.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Delisprin 75", "manufacturer": "Aristo", "price": 4.5, "saving": "18%" }
+    ]
+  },
+  {
+    "id": "med-26",
+    "name": "Atorva 10",
+    "genericSalt": "Atorvastatin (10mg)",
+    "strength": "10mg",
+    "dosageForm": "Tablet",
+    "category": "Lipid Lowering / Statin",
+    "rxRequired": true,
+    "description": "Lowers bad cholesterol (LDL) and triglycerides, reduces risk of cardiovascular disease.",
+    "pricing": {
+      "apollo": { "price": 95.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 102.0, "stock": true, "eta": "15 mins", "deliveryFee": 30 },
+      "zepto": { "price": 99.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 86.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 88.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Lipitor 10", "manufacturer": "Pfizer", "price": 110.0, "saving": "-16%" },
+      { "name": "Storvas 10", "manufacturer": "Sun Pharma", "price": 82.0, "saving": "14%" }
+    ]
+  },
+  {
+    "id": "med-27",
+    "name": "Thyronorm 50",
+    "genericSalt": "Thyroxine Sodium (50mcg)",
+    "strength": "50mcg",
+    "dosageForm": "Tablet",
+    "category": "Thyroid Hormone",
+    "rxRequired": true,
+    "description": "Hormone replacement therapy for hypothyroidism (underactive thyroid gland).",
+    "pricing": {
+      "apollo": { "price": 145.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 155.0, "stock": true, "eta": "12 mins", "deliveryFee": 30 },
+      "zepto": { "price": 150.0, "stock": true, "eta": "14 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 132.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 135.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Eltroxin 50", "manufacturer": "GSK", "price": 130.0, "saving": "10%" }
+    ]
+  },
+  {
+    "id": "med-28",
+    "name": "Candid Mouth Paint",
+    "genericSalt": "Clotrimazole (1% w/v)",
+    "strength": "15ml Lotion",
+    "dosageForm": "Mouth Paint",
+    "category": "Antifungal",
+    "rxRequired": false,
+    "description": "Treats oral thrush and fungal infections of the mouth and tongue.",
+    "pricing": {
+      "apollo": { "price": 120.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 128.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 125.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 110.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 112.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Canesten Mouth Paint", "manufacturer": "Bayer", "price": 115.0, "saving": "4%" }
+    ]
+  },
+  {
+    "id": "med-29",
+    "name": "Neurobion Forte",
+    "genericSalt": "Vitamin B Complex with B12",
+    "strength": "Standard Tablet",
+    "dosageForm": "Tablet",
+    "category": "Neurotropic Vitamins",
+    "rxRequired": false,
+    "description": "Strengthens nerve function, treats peripheral neuropathy and tingling sensation.",
+    "pricing": {
+      "apollo": { "price": 42.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 45.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 44.0, "stock": true, "eta": "11 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 38.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 39.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Optineuron", "manufacturer": "Lupin", "price": 35.0, "saving": "17%" }
+    ]
+  },
+  {
+    "id": "med-30",
+    "name": "Zinetac 150",
+    "genericSalt": "Ranitidine (150mg)",
+    "strength": "150mg",
+    "dosageForm": "Tablet",
+    "category": "H2 Blocker (Antacid)",
+    "rxRequired": false,
+    "description": "Rapid antacid tablet for acidity and burning sensation in food pipe.",
+    "pricing": {
+      "apollo": { "price": 30.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 32.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 31.0, "stock": true, "eta": "11 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 27.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 28.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Rantac 150", "manufacturer": "J.B. Chemicals", "price": 28.0, "saving": "7%" }
+    ]
+  },
+  {
+    "id": "med-31",
+    "name": "Ciprogut 500",
+    "genericSalt": "Ciprofloxacin (500mg)",
+    "strength": "500mg",
+    "dosageForm": "Tablet",
+    "category": "Antibiotic (Fluoroquinolone)",
+    "rxRequired": true,
+    "description": "Treats severe bacterial infections of urinary tract, abdomen, and skin.",
+    "pricing": {
+      "apollo": { "price": 48.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 52.0, "stock": true, "eta": "12 mins", "deliveryFee": 30 },
+      "zepto": { "price": 50.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 44.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 45.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Ciplox 500", "manufacturer": "Cipla", "price": 42.0, "saving": "12%" }
+    ]
+  },
+  {
+    "id": "med-32",
+    "name": "Taxim-O 200",
+    "genericSalt": "Cefixime (200mg)",
+    "strength": "200mg",
+    "dosageForm": "Tablet",
+    "category": "Antibiotic (Cephalosporin)",
+    "rxRequired": true,
+    "description": "Treats ear infections, throat infections, bronchitis, and typhoid fever.",
+    "pricing": {
+      "apollo": { "price": 105.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 112.0, "stock": true, "eta": "15 mins", "deliveryFee": 30 },
+      "zepto": { "price": 110.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 96.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 98.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Cefspan 200", "manufacturer": "GlaxoSmithKline", "price": 92.0, "saving": "12%" },
+      { "name": "Mahacef 200", "manufacturer": "Mankind", "price": 94.0, "saving": "10%" }
+    ]
+  },
+  {
+    "id": "med-33",
+    "name": "Erythrocin 250",
+    "genericSalt": "Erythromycin (250mg)",
+    "strength": "250mg",
+    "dosageForm": "Tablet",
+    "category": "Antibiotic (Macrolide)",
+    "rxRequired": true,
+    "description": "Treats respiratory, skin, and soft tissue bacterial infections.",
+    "pricing": {
+      "apollo": { "price": 62.0, "stock": true, "eta": "3 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 68.0, "stock": false, "eta": "Out of stock", "deliveryFee": 30 },
+      "zepto": { "price": 65.0, "stock": true, "eta": "18 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 56.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 58.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Althrocin 250", "manufacturer": "Alembic", "price": 54.0, "saving": "13%" }
+    ]
+  },
+  {
+    "id": "med-34",
+    "name": "Livogen Adult",
+    "genericSalt": "Ferrous Fumarate + Folic Acid",
+    "strength": "Standard Tablet",
+    "dosageForm": "Tablet",
+    "category": "Iron Supplement",
+    "rxRequired": false,
+    "description": "Treats and prevents iron deficiency anemia and elevates hemoglobin.",
+    "pricing": {
+      "apollo": { "price": 85.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 90.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 88.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 78.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 80.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Autrin", "manufacturer": "Pfizer", "price": 75.0, "saving": "12%" },
+      { "name": "Orofer XT", "manufacturer": "Emcure", "price": 82.0, "saving": "4%" }
+    ]
+  },
+  {
+    "id": "med-35",
+    "name": "EVMION 400",
+    "genericSalt": "Vitamin E (400mg)",
+    "strength": "400mg",
+    "dosageForm": "Capsule",
+    "category": "Antioxidant / Vitamin",
+    "rxRequired": false,
+    "description": "Vitamin E capsule for skin repair, hair health, and antioxidant support.",
+    "pricing": {
+      "apollo": { "price": 38.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 40.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 39.0, "stock": true, "eta": "10 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 34.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 35.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Evion LC", "manufacturer": "Merck", "price": 45.0, "saving": "-18%" }
+    ]
+  },
+  {
+    "id": "med-36",
+    "name": "Crocin Advance",
+    "genericSalt": "Paracetamol Fast Release (500mg)",
+    "strength": "500mg",
+    "dosageForm": "Tablet",
+    "category": "Analgesic / Antipyretic",
+    "rxRequired": false,
+    "description": "Fast release formula starts releasing medicine in 5 minutes for headache and fever.",
+    "pricing": {
+      "apollo": { "price": 18.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 20.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 19.0, "stock": true, "eta": "10 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 16.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 17.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Calpol 500", "manufacturer": "GSK", "price": 16.0, "saving": "11%" },
+      { "name": "Pacimol 500", "manufacturer": "Ipca", "price": 15.0, "saving": "17%" }
+    ]
+  },
+  {
+    "id": "med-37",
+    "name": "Avil 25",
+    "genericSalt": "Pheniramine Maleate (25mg)",
+    "strength": "25mg",
+    "dosageForm": "Tablet",
+    "category": "Antihistamine",
+    "rxRequired": true,
+    "description": "Relieves allergic conditions, hay fever, drug rash, and motion sickness.",
+    "pricing": {
+      "apollo": { "price": 12.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 14.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 13.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 10.5, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 11.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Phenergan 25", "manufacturer": "Abbott", "price": 14.0, "saving": "-16%" }
+    ]
+  },
+  {
+    "id": "med-38",
+    "name": "Digene Chewable Tablets",
+    "genericSalt": "Magnesium Hydroxide + Aluminium Hydroxide + Simethicone",
+    "strength": "Orange / Mint flavour",
+    "dosageForm": "Chewable Tablet",
+    "category": "Antacid",
+    "rxRequired": false,
+    "description": "Quick relief from indigestion, acid reflux, heartburn and sour burps.",
+    "pricing": {
+      "apollo": { "price": 28.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 30.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 29.0, "stock": true, "eta": "10 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 25.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 26.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Gelusil Chewable", "manufacturer": "Pfizer", "price": 27.0, "saving": "4%" }
+    ]
+  },
+  {
+    "id": "med-39",
+    "name": "Strepsils Honey & Lemon",
+    "genericSalt": "2,4-Dichlorobenzyl alcohol + Amylmetacresol",
+    "strength": "Standard Lozenge",
+    "dosageForm": "Lozenge",
+    "category": "Sore Throat Lozenge",
+    "rxRequired": false,
+    "description": "Dual action antibacterial soothing relief for sore throat and irritated mouth.",
+    "pricing": {
+      "apollo": { "price": 40.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 42.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 41.0, "stock": true, "eta": "10 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 38.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 38.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Vicks VapoDrops", "manufacturer": "Procter & Gamble", "price": 35.0, "saving": "12%" }
+    ]
+  },
+  {
+    "id": "med-40",
+    "name": "Sporidex 500",
+    "genericSalt": "Cephalexin (500mg)",
+    "strength": "500mg",
+    "dosageForm": "Capsule",
+    "category": "Antibiotic (Cephalosporin)",
+    "rxRequired": true,
+    "description": "Treats bacterial skin, bone, ear, and genitourinary infections.",
+    "pricing": {
+      "apollo": { "price": 140.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 148.0, "stock": true, "eta": "15 mins", "deliveryFee": 30 },
+      "zepto": { "price": 145.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 128.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 130.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Phexin 500", "manufacturer": "GlaxoSmithKline", "price": 132.0, "saving": "6%" }
+    ]
+  },
+  {
+    "id": "med-41",
+    "name": "Soframycin Skin Cream",
+    "genericSalt": "Framycetin Sulphate (1%)",
+    "strength": "30g Tube",
+    "dosageForm": "Cream",
+    "category": "Topical Antibiotic",
+    "rxRequired": false,
+    "description": "First-aid antibiotic cream for superficial wounds, burns, and infected cuts.",
+    "pricing": {
+      "apollo": { "price": 68.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 72.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 70.0, "stock": true, "eta": "11 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 62.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 64.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Neosporin Skin Ointment", "manufacturer": "GSK", "price": 85.0, "saving": "-25%" }
+    ]
+  },
+  {
+    "id": "med-42",
+    "name": "Zandu Balm",
+    "genericSalt": "Mentha extract + Gaultheria oil + Eucalyptus",
+    "strength": "25ml Balm",
+    "dosageForm": "Balm",
+    "category": "Analgesic Balm",
+    "rxRequired": false,
+    "description": "Ayurvedic balm for cold, headache, and backache.",
+    "pricing": {
+      "apollo": { "price": 45.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 48.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 46.0, "stock": true, "eta": "10 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 40.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 42.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Tiger Balm White", "manufacturer": "Haw Par", "price": 65.0, "saving": "-44%" },
+      { "name": "Amrutanjan Strong Balm", "manufacturer": "Amrutanjan", "price": 45.0, "saving": "0%" }
+    ]
+  },
+  {
+    "id": "med-43",
+    "name": "Bactroban Ointment",
+    "genericSalt": "Mupirocin (2% w/w)",
+    "strength": "5g Tube",
+    "dosageForm": "Ointment",
+    "category": "Topical Antibacterial",
+    "rxRequired": true,
+    "description": "Topical antibacterial against Staphylococcus and Streptococcus infections including impetigo.",
+    "pricing": {
+      "apollo": { "price": 138.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 145.0, "stock": true, "eta": "12 mins", "deliveryFee": 30 },
+      "zepto": { "price": 142.0, "stock": true, "eta": "14 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 125.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 128.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "T-Bact Ointment", "manufacturer": "GSK", "price": 130.0, "saving": "6%" },
+      { "name": "Mupirocin Ointment Cipla", "manufacturer": "Cipla", "price": 115.0, "saving": "17%" }
+    ]
+  },
+  {
+    "id": "med-44",
+    "name": "Ciplox Eye/Ear Drops",
+    "genericSalt": "Ciprofloxacin (0.3% w/v)",
+    "strength": "10ml Drops",
+    "dosageForm": "Eye/Ear Drops",
+    "category": "Ophthalmic Antibiotic",
+    "rxRequired": true,
+    "description": "Treats bacterial conjunctivitis, corneal ulcers, and outer ear canal infections.",
+    "pricing": {
+      "apollo": { "price": 20.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 22.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 21.0, "stock": true, "eta": "11 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 17.5, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 18.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Zoxan Drops", "manufacturer": "FDC", "price": 18.0, "saving": "10%" }
+    ]
+  },
+  {
+    "id": "med-45",
+    "name": "Refresh Tears",
+    "genericSalt": "Carboxymethylcellulose (0.5%)",
+    "strength": "10ml Drops",
+    "dosageForm": "Eye Drops",
+    "category": "Artificial Tears",
+    "rxRequired": false,
+    "description": "Lubricating eye drops for dry eyes, burning, eye strain from screens.",
+    "pricing": {
+      "apollo": { "price": 160.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 170.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 165.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 145.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 148.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Tear Drops", "manufacturer": "Sun Pharma", "price": 135.0, "saving": "16%" },
+      { "name": "Loc tears", "manufacturer": "Cipla", "price": 140.0, "saving": "13%" }
+    ]
+  },
+  {
+    "id": "med-46",
+    "name": "Stemetil 5",
+    "genericSalt": "Prochlorperazine (5mg)",
+    "strength": "5mg",
+    "dosageForm": "Tablet",
+    "category": "Antiemetic / Vestibular Sedative",
+    "rxRequired": true,
+    "description": "Prevents severe nausea, vomiting, dizziness, and vertigo from labyrinthitis.",
+    "pricing": {
+      "apollo": { "price": 130.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 138.0, "stock": true, "eta": "15 mins", "deliveryFee": 30 },
+      "zepto": { "price": 135.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 118.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 120.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Emidoxyn", "manufacturer": "Sun Pharma", "price": 110.0, "saving": "15%" }
+    ]
+  },
+  {
+    "id": "med-47",
+    "name": "Dulcolax 5",
+    "genericSalt": "Bisacodyl (5mg)",
+    "strength": "5mg",
+    "dosageForm": "Tablet",
+    "category": "Laxative",
+    "rxRequired": false,
+    "description": "Overnight predictable constipation relief.",
+    "pricing": {
+      "apollo": { "price": 15.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 16.5, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 16.0, "stock": true, "eta": "10 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 13.5, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 14.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Conlax 5", "manufacturer": "Cipla", "price": 12.0, "saving": "20%" }
+    ]
+  },
+  {
+    "id": "med-48",
+    "name": "Cremaffin Plus",
+    "genericSalt": "Liquid Paraffin + Milk of Magnesia + Sodium Picosulfate",
+    "strength": "225ml Syrup",
+    "dosageForm": "Emulsion",
+    "category": "Stool Softener / Laxative",
+    "rxRequired": false,
+    "description": "Gentle stool softening relief for chronic and acute constipation.",
+    "pricing": {
+      "apollo": { "price": 280.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 295.0, "stock": true, "eta": "12 mins", "deliveryFee": 30 },
+      "zepto": { "price": 290.0, "stock": true, "eta": "14 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 255.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 260.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Looz Liquid", "manufacturer": "Intas", "price": 240.0, "saving": "14%" }
+    ]
+  },
+  {
+    "id": "med-49",
+    "name": "Eldoper",
+    "genericSalt": "Loperamide (2mg)",
+    "strength": "2mg",
+    "dosageForm": "Capsule",
+    "category": "Antidiarrheal",
+    "rxRequired": false,
+    "description": "Rapid control of acute non-infectious loose stools and traveler's diarrhea.",
+    "pricing": {
+      "apollo": { "price": 28.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 30.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 29.0, "stock": true, "eta": "10 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 24.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 25.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Imodium", "manufacturer": "Johnson & Johnson", "price": 32.0, "saving": "-14%" },
+      { "name": "Lopamide", "manufacturer": "Torrent", "price": 22.0, "saving": "21%" }
+    ]
+  },
+  {
+    "id": "med-50",
+    "name": "Sporlac DS",
+    "genericSalt": "Lactic Acid Bacillus (120 Million Spores)",
+    "strength": "Standard Tablet",
+    "dosageForm": "Tablet",
+    "category": "Probiotic",
+    "rxRequired": false,
+    "description": "Restores healthy gut flora following antibiotic therapy or stomach upset.",
+    "pricing": {
+      "apollo": { "price": 115.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 122.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 120.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 105.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 108.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Darolac", "manufacturer": "Aristo", "price": 98.0, "saving": "15%" },
+      { "name": "Econorm Sachet", "manufacturer": "Dr Reddy", "price": 125.0, "saving": "-9%" }
+    ]
+  },
+  {
+    "id": "med-51",
+    "name": "Disprin Regular",
+    "genericSalt": "Aspirin Soluble (350mg)",
+    "strength": "350mg Effervescent",
+    "dosageForm": "Effervescent Tablet",
+    "category": "Analgesic",
+    "rxRequired": false,
+    "description": "Fast effervescent dissolvable pain reliever for severe headache, toothache, and muscular pain.",
+    "pricing": {
+      "apollo": { "price": 14.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 15.5, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 15.0, "stock": true, "eta": "10 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 12.5, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 13.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": []
+  },
+  {
+    "id": "med-52",
+    "name": "Saridon",
+    "genericSalt": "Paracetamol (250mg) + Propyphenazone (150mg) + Caffeine (50mg)",
+    "strength": "Triple Action",
+    "dosageForm": "Tablet",
+    "category": "Headache Relief",
+    "rxRequired": false,
+    "description": "Triple action formulation designed to relieve severe tension headache within 30 minutes.",
+    "pricing": {
+      "apollo": { "price": 46.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 50.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 48.0, "stock": true, "eta": "10 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 42.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 43.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Dart Tablet", "manufacturer": "Abbott", "price": 38.0, "saving": "17%" }
+    ]
+  },
+  {
+    "id": "med-53",
+    "name": "Sinarest New",
+    "genericSalt": "Paracetamol (500mg) + Phenylephrine (10mg) + Chlorpheniramine (2mg)",
+    "strength": "Triple Formula",
+    "dosageForm": "Tablet",
+    "category": "Cold & Flu",
+    "rxRequired": false,
+    "description": "Multi-symptom cold, fever, blocked nose, runny nose, and sinus pressure relief.",
+    "pricing": {
+      "apollo": { "price": 75.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 82.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 80.0, "stock": true, "eta": "11 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 68.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 70.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Cheston Cold", "manufacturer": "Cipla", "price": 62.0, "saving": "17%" },
+      { "name": "Solvin Cold", "manufacturer": "Ipca", "price": 65.0, "saving": "13%" }
+    ]
+  },
+  {
+    "id": "med-54",
+    "name": "Chymoral Forte",
+    "genericSalt": "Trypsin + Chymotrypsin (100000 Armour Units)",
+    "strength": "100k Units",
+    "dosageForm": "Tablet",
+    "category": "Anti-inflammatory Enzyme",
+    "rxRequired": true,
+    "description": "Enzyme formulation that speeds healing and reduces edema, inflammation, and hematoma.",
+    "pricing": {
+      "apollo": { "price": 460.0, "stock": true, "eta": "3 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 485.0, "stock": true, "eta": "15 mins", "deliveryFee": 30 },
+      "zepto": { "price": 475.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 420.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 428.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Enzomac Plus", "manufacturer": "Macleods", "price": 380.0, "saving": "17%" }
+    ]
+  },
+  {
+    "id": "med-55",
+    "name": "Zerodol-SP",
+    "genericSalt": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
+    "strength": "100/325/15mg",
+    "dosageForm": "Tablet",
+    "category": "Analgesic & Anti-edema",
+    "rxRequired": true,
+    "description": "Powerful relief for joint swelling, post-operative pain, and intense musculoskeletal inflammation.",
+    "pricing": {
+      "apollo": { "price": 125.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 135.0, "stock": true, "eta": "12 mins", "deliveryFee": 30 },
+      "zepto": { "price": 130.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 112.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 115.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Aceclo Plus", "manufacturer": "Aristo", "price": 95.0, "saving": "24%" },
+      { "name": "Hifenac-D", "manufacturer": "Intas", "price": 105.0, "saving": "16%" }
+    ]
+  },
+  {
+    "id": "med-56",
+    "name": "Amlong 5",
+    "genericSalt": "Amlodipine Besylate (5mg)",
+    "strength": "5mg",
+    "dosageForm": "Tablet",
+    "category": "Antihypertensive (Calcium Channel Blocker)",
+    "rxRequired": true,
+    "description": "Lowers blood pressure and prevents angina chest pain by relaxing blood vessels.",
+    "pricing": {
+      "apollo": { "price": 42.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 45.0, "stock": true, "eta": "15 mins", "deliveryFee": 30 },
+      "zepto": { "price": 44.0, "stock": true, "eta": "14 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 38.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 39.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Amtas 5", "manufacturer": "Intas", "price": 35.0, "saving": "17%" },
+      { "name": "Amlodac 5", "manufacturer": "Zydus", "price": 36.0, "saving": "14%" }
+    ]
+  },
+  {
+    "id": "med-57",
+    "name": "Clopilet 75",
+    "genericSalt": "Clopidogrel (75mg)",
+    "strength": "75mg",
+    "dosageForm": "Tablet",
+    "category": "Antiplatelet",
+    "rxRequired": true,
+    "description": "Prevents blood clots in patients with heart stents, prior stroke, or acute coronary syndrome.",
+    "pricing": {
+      "apollo": { "price": 115.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 124.0, "stock": true, "eta": "15 mins", "deliveryFee": 30 },
+      "zepto": { "price": 120.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 104.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 106.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Deplatt 75", "manufacturer": "Torrent", "price": 98.0, "saving": "15%" },
+      { "name": "Ceruvin 75", "manufacturer": "Ranbaxy", "price": 102.0, "saving": "11%" }
+    ]
+  },
+  {
+    "id": "med-58",
+    "name": "Januvia 100",
+    "genericSalt": "Sitagliptin Phosphate (100mg)",
+    "strength": "100mg",
+    "dosageForm": "Tablet",
+    "category": "Antidiabetic (DPP-4 Inhibitor)",
+    "rxRequired": true,
+    "description": "Increases insulin release and reduces glucagon to manage blood sugar in type 2 diabetes.",
+    "pricing": {
+      "apollo": { "price": 540.0, "stock": true, "eta": "3 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 570.0, "stock": false, "eta": "Out of stock", "deliveryFee": 30 },
+      "zepto": { "price": 560.0, "stock": true, "eta": "20 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 490.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 498.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Istavel 100", "manufacturer": "Sun Pharma", "price": 420.0, "saving": "22%" },
+      { "name": "Zita 100", "manufacturer": "Glenmark", "price": 390.0, "saving": "28%" }
+    ]
+  },
+  {
+    "id": "med-59",
+    "name": "Ciplox OZ",
+    "genericSalt": "Ciprofloxacin (500mg) + Ornidazole (500mg)",
+    "strength": "500mg/500mg",
+    "dosageForm": "Tablet",
+    "category": "Antimicrobial & Antiprotozoal",
+    "rxRequired": true,
+    "description": "Treats severe mixed bacterial and protozoal gastroenteritis, amoebiasis, and dysentery.",
+    "pricing": {
+      "apollo": { "price": 145.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 155.0, "stock": true, "eta": "12 mins", "deliveryFee": 30 },
+      "zepto": { "price": 150.0, "stock": true, "eta": "14 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 132.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 135.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Normaxin", "manufacturer": "Systopic", "price": 118.0, "saving": "19%" }
+    ]
+  },
+  {
+    "id": "med-60",
+    "name": "Mox 500",
+    "genericSalt": "Amoxicillin (500mg)",
+    "strength": "500mg",
+    "dosageForm": "Capsule",
+    "category": "Penicillin Antibiotic",
+    "rxRequired": true,
+    "description": "Effective against bacterial ear, nose, throat, chest, and tooth infections.",
+    "pricing": {
+      "apollo": { "price": 75.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 80.0, "stock": true, "eta": "12 mins", "deliveryFee": 30 },
+      "zepto": { "price": 78.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 68.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 70.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Novamox 500", "manufacturer": "Cipla", "price": 66.0, "saving": "12%" },
+      { "name": "Almox 500", "manufacturer": "Alkem", "price": 64.0, "saving": "15%" }
+    ]
+  },
+  {
+    "id": "med-61",
+    "name": "Kenacort 0.1% Oral Paste",
+    "genericSalt": "Triamcinolone Acetonide (0.1%)",
+    "strength": "5g Tube",
+    "dosageForm": "Oral Paste",
+    "category": "Corticosteroid",
+    "rxRequired": true,
+    "description": "Rapid pain relief and healing for recurrent aphthous stomatitis and painful mouth ulcers.",
+    "pricing": {
+      "apollo": { "price": 142.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 150.0, "stock": true, "eta": "10 mins", "deliveryFee": 30 },
+      "zepto": { "price": 148.0, "stock": true, "eta": "12 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 130.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 132.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": [
+      { "name": "Tess Oral Paste", "manufacturer": "Abbott", "price": 125.0, "saving": "12%" }
+    ]
+  },
+  {
+    "id": "med-62",
+    "name": "Benalgis 100",
+    "genericSalt": "Benfotiamine (100mg)",
+    "strength": "100mg",
+    "dosageForm": "Tablet",
+    "category": "Neuropathy Support",
+    "rxRequired": false,
+    "description": "Fat-soluble Vitamin B1 derivative for diabetic neuropathy, nerve pain, and cellular health.",
+    "pricing": {
+      "apollo": { "price": 178.0, "stock": true, "eta": "2 hours", "deliveryFee": 25 },
+      "blinkit": { "price": 188.0, "stock": true, "eta": "15 mins", "deliveryFee": 30 },
+      "zepto": { "price": 184.0, "stock": true, "eta": "15 mins", "deliveryFee": 29 },
+      "tata1mg": { "price": 162.0, "stock": true, "eta": "Same day", "deliveryFee": 20 },
+      "pharmeasy": { "price": 165.0, "stock": true, "eta": "1-2 days", "deliveryFee": 15 }
+    },
+    "genericAlternatives": []
+  }
+]
